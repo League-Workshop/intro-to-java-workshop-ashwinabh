@@ -25,15 +25,7 @@ public class MadlibsOfTheAmazon {
 				"Piranhas are more " + adjective
 						+ " during the day, so cross the river at night. Pirhana's are attracted to the scent of fresh "
 						+ liquid + " and will most likely take a bite out of your " + bodypart + " if you " + verb
-						+ ". If you do get bit, try to run back " + place + ".");
-
-		// Piranhas are more [adjective] during the day, so cross the river at
-		// night. Piranhas are attracted to fresh [type of liquid] and will most
-		// likely take a bite out of your [body part] if you [verb]. Whatever
-		// you do, if you have an open wound, try to find another way to get
-		// back to the [place]. Good luck!
-
-		// Make a pop-up for the final story. You can use \n to go to the next line
+						+ ". If you do get bit, try to run back to the " + place + ".");
 
 	}
 }
